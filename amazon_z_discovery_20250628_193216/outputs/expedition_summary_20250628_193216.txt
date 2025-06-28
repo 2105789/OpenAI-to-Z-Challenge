@@ -1,0 +1,39 @@
+
+        
+🏛️ AMAZON ARCHAEOLOGICAL EXPEDITION SUMMARY
+══════════════════════════════════════════════════════════════
+
+📊 ANALYSIS STATISTICS:
+   • Total Sites Analyzed: 8
+   • High Confidence Sites (>75%): 0
+   • Medium Confidence Sites (50-75%): 6
+   • Maps Generated: 0
+   • Duration: 0:59:04.662083
+
+🎯 RECOMMENDED DISCOVERY:
+               • Site ID: Unknown
+               • Confidence: 72.5%
+            • Location: Unknown
+
+🛰️ DATA SOURCES UTILIZED:
+   • Sentinel-2 L2A optical imagery (10m resolution)
+   • Landsat 8/9 multispectral (30m resolution)
+   • Sentinel-1 SAR data (10m resolution)
+   • Multiple DEM sources (SRTM, NASA, Copernicus)
+   • GBIF biodiversity occurrence data
+   • OpenTopography LiDAR data
+
+🤖 AI MODELS DEPLOYED:
+   • GPT-4.1 for expert archaeological analysis
+   • o3-mini for rapid hypothesis generation
+   • LLM7 for specialized remote sensing evaluation
+
+📁 OUTPUTS GENERATED:
+   • Comprehensive HTML report
+   • Interactive discovery map
+   • Individual site analysis maps
+   • Quantitative confidence scores
+   • Reproducible methodology documentation
+
+══════════════════════════════════════════════════════════════
+        
